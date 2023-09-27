@@ -1,0 +1,4 @@
+/Users/horqin/Desktop/2021T2/9024/lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/horqin/Desktop/2021T2/9024/lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/horqin/Desktop/2021T2/9024/lab05/cmake-build-debug/CMakeFiles/lab0501.dir
+/Users/horqin/Desktop/2021T2/9024/lab05/cmake-build-debug/CMakeFiles/lab05.dir

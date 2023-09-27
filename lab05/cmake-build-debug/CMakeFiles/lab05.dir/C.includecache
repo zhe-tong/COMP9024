@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/horqin/Desktop/2021T2/9024/lab05/cyclical_graphs/cyclical.c
+stdbool.h
+-
+lib_graph.h
+/Users/horqin/Desktop/2021T2/9024/lab05/cyclical_graphs/lib_graph.h
+graph.h
+/Users/horqin/Desktop/2021T2/9024/lab05/cyclical_graphs/graph.h
+
+/Users/horqin/Desktop/2021T2/9024/lab05/cyclical_graphs/graph.h
+stddef.h
+-
+
+/Users/horqin/Desktop/2021T2/9024/lab05/cyclical_graphs/lib_graph.h
+stdbool.h
+-
+stddef.h
+-
+
